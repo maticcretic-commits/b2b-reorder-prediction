@@ -1,0 +1,10 @@
+InvoiceNo,AccountCode,AccountName,TranDate,SKU,ItemDesc,Category,Quantity,NetAmount
+INV-5001,ACC-102,Lakeside Supply,30/05/2026,AD-3001,Epoxy Adhesive 1kg,Adhesives,120,540.00
+INV-5002,ACC-102,Lakeside Supply,29/06/2026,AD-3001,Epoxy Adhesive 1kg,Adhesives,110,495.00
+INV-5003,ACC-102,Lakeside Supply,29/07/2026,AD-3010,Silicone Sealant 300ml,Adhesives,140,630.00
+INV-5004,ACC-102,Lakeside Supply,28/08/2026,AD-3001,Epoxy Adhesive 1kg,Adhesives,120,540.00
+INV-6001,ACC-104,Harbor Wholesale,05/06/2026,FS-0140,Nyloc Nut M12,Fasteners,2000,300.00
+INV-6002,ACC-104,Harbor Wholesale,19/06/2026,FS-0140,Nyloc Nut M12,Fasteners,2000,300.00
+INV-6003,ACC-104,Harbor Wholesale,03/07/2026,FS-0140,Nyloc Nut M12,Fasteners,2000,300.00
+INV-6004,ACC-102,Lakeside Supply,31/02/2026,AD-3001,Epoxy Adhesive 1kg,Adhesives,120,540.00
+INV-6005,ACC-104,Harbor Wholesale,17/07/2026,FS-0140,Nyloc Nut M12,Fasteners,-5,300.00
