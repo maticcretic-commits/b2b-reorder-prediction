@@ -1,0 +1,15 @@
+OrderNum,CustomerID,CustomerName,OrderDate,PartNum,PartDescription,ProductClass,Qty,ExtPrice
+1001,ACC-101,Northgate Hardware,2026-05-28,FS-0100,Hex Bolt M8x40,Fasteners,500,250.00
+1002,ACC-101,Northgate Hardware,2026-06-11,FS-0100,Hex Bolt M8x40,Fasteners,500,250.00
+1003,ACC-101,Northgate Hardware,2026-06-25,FS-0120,Hex Bolt M10x50,Fasteners,400,260.00
+1004,ACC-101,Northgate Hardware,2026-07-09,FS-0100,Hex Bolt M8x40,Fasteners,500,250.00
+1005,ACC-101,Northgate Hardware,2026-07-23,FS-0120,Hex Bolt M10x50,Fasteners,400,260.00
+1006,ACC-101,Northgate Hardware,2026-08-06,FS-0100,Hex Bolt M8x40,Fasteners,500,250.00
+1007,ACC-101,Northgate Hardware,2026-08-19,FS-0100,Hex Bolt M8x40,Fasteners,500,250.00
+1008,ACC-103,Peak Electric,2026-06-02,EL-2200,Circuit Breaker 32A,Electrical,60,780.00
+1009,ACC-103,Peak Electric,2026-07-04,EL-2200,Circuit Breaker 32A,Electrical,60,780.00
+1010,ACC-103,Peak Electric,2026-08-05,EL-2250,MCB Distribution Board,Electrical,12,960.00
+1011,ACC-103,Peak Electric,2026-09-05,EL-2200,Circuit Breaker 32A,Electrical,60,780.00
+1012,ACC-101,Northgate Hardware,2026-13-01,FS-0100,Hex Bolt M8x40,Fasteners,500,250.00
+1013,ACC-103,Peak Electric,2026-08-20,EL-2200,Circuit Breaker 32A,Electrical,,780.00
+1014,,Northgate Hardware,2026-08-25,FS-0100,Hex Bolt M8x40,Fasteners,500,250.00
