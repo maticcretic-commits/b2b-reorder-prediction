@@ -79,3 +79,9 @@ OVERDUE TO REORDER (interval drifted past 125%):
 - [ ] Replace the demo "today" with the real clock + wire to a cron / n8n Schedule Trigger
 - [ ] Send the digest via SMTP instead of writing files
 - [ ] Category-level tuning of `DRIFT_FACTOR` (fasteners vs. adhesives behave differently)
+
+## Support My Work
+
+If you find this project useful, consider supporting my work with a Bitcoin donation:
+
+`BC1Q6Q75K8ZJXVW7W02LMDPRPY6XX6QK4LZZ2RMVAY`
