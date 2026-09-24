@@ -1,5 +1,10 @@
 # b2b-reorder-prediction
 
+[![GitHub stars](https://img.shields.io/github/stars/maticcretic-commits/b2b-reorder-prediction?style=social)](https://github.com/maticcretic-commits/b2b-reorder-prediction/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/maticcretic-commits/b2b-reorder-prediction)](https://github.com/maticcretic-commits/b2b-reorder-prediction/commits/main)
+[![Cost: Free](https://img.shields.io/badge/cost-%E2%82%B90-brightgreen)](https://github.com/maticcretic-commits/b2b-reorder-prediction)
+
+
 **Practice/demo project for learning** — modeled on the type of work in a real $500 fixed-price Upwork posting: *"Build a reorder-prediction automation for a B2B distributor client (n8n/Python, ERP data)"*.
 
 This is a learning exercise built from mock data. It is **not** client work and does not represent paid experience. It was built to practice exactly the skills that posting asks for: ingesting messy ERP CSV exports, computing reorder intervals, flagging drifted accounts, and producing a scheduled digest report.
